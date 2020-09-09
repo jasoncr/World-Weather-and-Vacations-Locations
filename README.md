@@ -9,4 +9,7 @@ I came to the conclusions that: In the southern hemisphere, the cloudiness incre
 
 
 The second part was to use this data to determine what would be a good place to go and visit. I filtered the data based on max temperature, wind speed, minimum temperature, and cloudiness so I would have the most comfortable vacation. I then use google maps API to find me a hotel close by. I plotted everything on a gmaps object so I would have all the information to make a great decision for my next vacation. 
-![Sample2](/Images/083722.png)
+![vacation](/output_data/110113.png)
+
+
+To run all of this you will need to run a Jupyter Notebook as well as have an OpenWeatherMap API and a Google Maps API.
