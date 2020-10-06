@@ -1,4 +1,4 @@
-# python-api-challenge
+# World-Weather-and-Vacations-Locations
 In the first part of this exercise, I wanted to visualize the effects of proximity to the equator to weather trends. To do this I used Jupyter Notebooks to run my Python code. I used matplotlib, pandas, scipy, and numpy. I imported a data set from OpenMapWeather at https://openweathermap.org/api to use for my visualizations. I pulled in a 650 random cities from the world. Afterwards I cleaned the data to make it the most useful and threw out the cities with missing data. This left me with almost 600 cities to create visualizations for. I then created scatter plots for Latitude vs Max Temperature, Latitude vs Humidity, Latitude vs Cloudiness, Latitide vs Wind Speed. For brevity, I only included one of those plots. 
 ![lat_vs_humid](/output_data/lat_vs_humid.png)
 
